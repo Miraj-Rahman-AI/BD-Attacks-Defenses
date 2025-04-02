@@ -1,2 +1,3 @@
-# Backdoor-Attacks-in-SSL
-Practice experiments for studying backdoor attacks and defenses in Self-Supervised Learning (SSL) frameworks like BYOL, MoCo, RotNet, and Jigsaw. Includes poison generation, training pipelines, and visual analysis SSL vulnerabilities.
+# Backdoor-Attack-Defense-Practice
+
+A practical toolkit for implementing and evaluating backdoor attacks and defenses in deep learning. This project includes examples of popular attack methods like **BadNets** and **Blended Attack**, as well as defense strategies such as **ShrinkPad**.
